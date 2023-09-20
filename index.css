@@ -1,0 +1,34 @@
+table{
+    float: right;
+}
+
+#titulos{
+    background-color: aquamarine;
+}
+
+th,td{
+    padding: 15px;
+}
+
+#barra1{
+    background:#2ef50b ;
+}
+
+#barra2{
+    background:#f958db ;
+}
+
+#barra3{
+    background:#f5dd68 ;
+}
+
+#linea1{
+    background :#ff0000;
+}
+
+#linea2{
+    background :#FF1493;
+}
+#linea3{
+    background :#0000FF;
+}
